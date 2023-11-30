@@ -8,23 +8,23 @@ This is the code implementation of the paper **“DrPCE-Net: Differential Residu
 
 The structure of the project is as follows：
 
--- DrPCE-Net (the main method proposed)
+-- DrPCE-Net (the main method proposed in the paper)
 
 -- PCE (the implementation of Polynomial Chaoes Expansion)
 
--- baseline1 (the implementation of Y-model referred in paper)
+-- baseline1 (the implementation of Y-model referred in the paper)
 
--- baseline2 (the implementation of W-model referred in paper)
+-- baseline2 (the implementation of W-model referred in the paper)
 
 -- data (the data used in the experiments including three datasets: circle, rectangle, triangle)
 
--- net (the implementation of DNN referred in paper)
+-- net (the implementation of DNN referred in the paper)
 
--- plot  (the source code of partial figure plot)
+-- plot  (the source code of plotting)
 
 -- results (the results of partial experiments)
 
--- tools (the basic code of some function)
+-- tools (the implementation of some basic function)
 
 
 ## Requirements
@@ -50,7 +50,6 @@ By executing it , you will get a directory of predciting results, and you can vi
 
 
 ## Docs
-
 
 🥳🥳🥳
 
