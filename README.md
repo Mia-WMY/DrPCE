@@ -4,7 +4,7 @@
 
 🤔🤔🤔
 
-This is the code implementation of the paper “DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors”
+This is the code implementation of the paper **“DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors”**.
 
 The structure of the project is as follows：
 
@@ -31,7 +31,7 @@ The structure of the project is as follows：
 
 🥸🥸🥸
 
-This project bases on Python 3.10.8
+This project bases on **Python 3.10.8**.
 
 More information about packages can be found in **requirements.txt**.
 
@@ -46,7 +46,7 @@ Taking the **DrPCE-Net** as an example, you can train and test the model using t
 
 >**python shell.py**
 
-By executing it , you will get a directory of prediction, and you can view the **report.txt** to get an overview of the total prediction.
+By executing it , you will get a directory of predciting results, and you can view the **report.txt** to get an overview of the total prediction.
 
 
 ## Docs
@@ -54,6 +54,6 @@ By executing it , you will get a directory of prediction, and you can view the *
 
 🥳🥳🥳
 
-The paper is published on **IEEE Transactions on Electron Devices**, you can find by clicking the following link:
+The paper is published on **IEEE Transactions on Electron Devices**, and you can find by clicking the following link:
 
 ![DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors](https://ieeexplore.ieee.org/document/10308755)
