@@ -56,4 +56,4 @@ By executing it , you will get a directory of predciting results, and you can vi
 
 The paper is published on **IEEE Transactions on Electron Devices**, and you can find by clicking the following link:
 
-![DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors](https://ieeexplore.ieee.org/document/10308755)
+[DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors](https://ieeexplore.ieee.org/document/10308755)
