@@ -44,6 +44,8 @@ More information about packages can be found in **requirements.txt**.
 Taking the **DrPCE-Net** as an example, you can train and test the model using the following command:
 ```ruby
 cd DrPCE-Net
+```
+```ruby
 python shell.py
 ```
 By executing it , you will get a directory of predciting results, and you can view the **report.txt** to get an overview of the total prediction.
