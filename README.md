@@ -42,9 +42,9 @@ More information about packages can be found in **requirements.txt**.
 😇😇😇
 
 Taking the **DrPCE-Net** as an example, you can train and test the model using the following command:
->**cd DrPCE-Net**
+>cd DrPCE-Net
 
->**python shell.py**
+>python shell.py
 
 By executing it , you will get a directory of predciting results, and you can view the **report.txt** to get an overview of the total prediction.
 
